@@ -1,0 +1,72 @@
+.page
+{
+width: 780px;
+margin: auto;
+font-size: 16px;
+font-family: verdana,sans-serif;
+}
+
+.infophoto
+{
+  height: 220px;
+}
+
+.info
+{
+  float: left;
+}
+
+.photo
+{
+  float: right;
+}
+
+#photopetit
+{
+  width: 140px;
+  height: 180px;
+}
+
+.section
+{
+  margin-bottom: 70px;
+  text-align: justify;
+}
+
+.section-gauche
+{
+
+margin-top: -16px;
+  float: left;
+}
+
+.section-droite
+{
+  margin-left: 330px;
+}
+
+.section-droite2
+{
+  margin-left: 330px;
+  margin-top: -140px;
+}
+
+.duree
+{
+  font-weight: normal;
+  font-style: italic;
+  font-size: 10px;
+}
+
+h2
+{
+  font-size: 28px;
+  color: #3388BB;
+  text-transform: uppercase;
+  border-bottom: 3px solid #3388DD;
+}
+
+#exp-dr p
+{
+  margin-bottom: 35px;
+}
